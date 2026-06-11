@@ -78,7 +78,7 @@ Download these 5 files to `/tmp/ckpt/`:
 - `shape_predictor_68_face_landmarks.dat.bz2`
 
 ### 4. Download Gene Pool
-Custom rebuilt gene pool (8.11 GB):  
+Custom rebuilt gene pool (8.71 GB):  
 https://www.kaggle.com/datasets/manaswimendhekar/stylegene-balanced-pool
 
 Note: Due to data privacy and storage constraints, this Kaggle dataset is currently set to Private. Access can be granted to the evaluation committee upon request.
