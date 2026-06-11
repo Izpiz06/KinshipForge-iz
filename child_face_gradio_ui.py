@@ -36,8 +36,8 @@ RACE_CHOICES = ["White", "Black", "Indian", "East Asian",
 
 CANDIDATE_SEEDS = [42, 123, 256]
 
-OUTPUTS_BASE = "/kaggle/input/datasets/manaswimendhekar/outputs/outputs_final"
-PHOTOS_BASE  = "/kaggle/input/datasets/manaswimendhekar/locked-7-pairs"
+OUTPUTS_BASE = "/kaggle/input/datasets/YOUR_DATASET/outputs/outputs_final"
+PHOTOS_BASE  = "/kaggle/input/datasets/YOUR_DATASET/locked-7-pairs"
 
 # ─────────────────────────────────────────────────────────
 # 2. PRE-CACHED PAIRS — updated confirmed metrics
